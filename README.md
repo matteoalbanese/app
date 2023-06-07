@@ -1,7 +1,7 @@
 ## App per hedera testnet
 
-**Necessario per funzionare**: node module scaricabile da terminale con 
-***npm install --save "@hashgraph/sdk"***
+> **Necessario per funzionare**: node module scaricabile da terminale con 
+> ***npm install --save "@hashgraph/sdk"***
 
 
 Per adesso non fa ancora niente, ci sono due bottoni cliccabili
