@@ -1,7 +1,7 @@
 
 import React,{useState} from 'react';
 import MyGroup from "./components/button/MyGroup";
-import walletConnect from './components/connectfcn';
+import walletConnect from './components/walletConnect';
 import './App.css';
 
 function App() {
