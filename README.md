@@ -1,4 +1,4 @@
-#App per hedera testnet 
+#App per hedera testnet#
 
 **Necessario per funzionare: node module scaricabile da terminale con 
 npm install --save "@hashgraph/sdk"**
