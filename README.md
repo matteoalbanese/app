@@ -1,7 +1,10 @@
 ## App per hedera testnet
 
 > **Necessario per funzionare**: node module scaricabile da terminale con 
-> ***npm install --save "@hashgraph/sdk"***
+> - ***npm install --save "@hashgraph/sdk"***
+> - file **.env** per salvare le credenziali di hedera portal e creare il client
+
+
 
 
 Per adesso non fa ancora niente, ci sono due bottoni cliccabili
