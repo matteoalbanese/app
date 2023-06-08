@@ -18,3 +18,6 @@ il primo connette il wallet facendo anche switch sulla rete di hedera, il second
 > - Il lavoratore deve ricevere la ricompensa per il lavoro svolto, sempre tramite un azione sullo smart contract. (status: *inattivo*)
 
 
+
+# Capire come far trovare il contratto deployed by the worker all'user 
+
